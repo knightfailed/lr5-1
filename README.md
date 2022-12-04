@@ -14,7 +14,7 @@
 
 Рисунок 5.2 - Окно Inspector объекта «Player»
 
-![РИСУНОК](hhttps://gspics.org/images/2022/12/04/0Xj1a8.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0Xj1a8.png)  
 
 Рисунок 5.3 - Окно Inspector «Particle System»
 
